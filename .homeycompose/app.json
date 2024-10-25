@@ -1,0 +1,28 @@
+{
+  "id": "net.alistairs.evie",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Evie Candles"
+  },
+  "description": {
+    "en": "Support for Evie Candles"
+  },
+  "category": [
+    "lights"
+  ],
+  "permissions": ["homey:wireless:ir"],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Alistair Galbraith",
+    "email": "homey@alistairs.net"
+  }
+}
